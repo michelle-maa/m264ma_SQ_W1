@@ -1,5 +1,5 @@
 function preload() {
-  img = loadImage('/assets/images/Exit-8.jpg');
+  img = loadImage('/assets/images/Exit.jpg');
 }
 
 function setup() {
