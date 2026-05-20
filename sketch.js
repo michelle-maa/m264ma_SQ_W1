@@ -1,7 +1,7 @@
 let img;
 
 function preload() {
-  img = loadImage('/assets/images/Exit.jpg');
+  img = loadImage('/assets/images/exit.jpg');
 }
 
 function setup() {
