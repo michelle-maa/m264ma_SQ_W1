@@ -1,3 +1,5 @@
+let img;
+
 function preload() {
   img = loadImage('/assets/images/Exit.jpg');
 }
